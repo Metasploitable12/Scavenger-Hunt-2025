@@ -67,7 +67,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ title, rules, onStart 
                   <Award className="h-8 w-8 text-orange-600" />
                 </div>
                 <h3 className="font-semibold text-gray-800 mb-2">Win Prizes</h3>
-                <p className="text-gray-600 text-sm">Complete the hunt for prize eligibility</p>
+                <p className="text-gray-600 text-sm">Complete the hunt to take home some amazing InfoSec goodies</p>
               </div>
             </div>
 
