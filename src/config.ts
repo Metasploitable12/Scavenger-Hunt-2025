@@ -22,12 +22,12 @@ export const gameConfig: GameConfig = {
   ],
   title: "Syncron Security Awareness Scavenger Hunt",
   rules: [
-    "Navigate through our Confluence space to find 5 hidden security codes",
-    "Each code will be hidden within a logo or security-related content",
+    "Navigate through the Syncron Internal Confluence space to find 5 hidden security codes",
+    "Each code will be hidden within a logo",
     "Enter each code in the correct sequence to progress",
     "After each correct code, you'll receive a hint for the next location",
-    "Complete all 5 codes to receive your unique completion certificate",
-    "Share your completion code with the organizer to enter the prize draw!"
+    "Complete all 5 codes to receive your unique completion code",
+    "Share your completion code with the the InfoSec team to enter the prize draw!"
   ]
 };
 
