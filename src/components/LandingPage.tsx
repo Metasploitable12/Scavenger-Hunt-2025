@@ -111,7 +111,7 @@ export const LandingPage: React.FC<LandingPageProps> = ({ title, rules, onStart 
 
           {/* Footer */}
           <div className="text-center text-gray-500 text-sm">
-            <p>🔒 Part of Syncron Security Awareness Program</p>
+            <p>🔒 You will find your first code on a page that introduces the most recent news and updates from InfoSec to you. The Code for test is SEC2024A</p>
           </div>
         </div>
       </div>
