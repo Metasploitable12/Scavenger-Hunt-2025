@@ -14,11 +14,11 @@ export const gameConfig: GameConfig = {
     "CYBER999"
   ],
   hints: [
-    "Great start! Now check the Confluence page about phishing awareness to find your next code.",
-    "Excellent! Head over to the password security guidelines page for the next clue.",
-    "Well done! Look for the next code on the data protection policy page.",
-    "Amazing progress! Find your next code on the incident response procedures page.",
-    "Outstanding! You're almost there! Check the security training resources page for the final code."
+    "Great start! Now look out for the page where you can learn how to report suspicious activities. Hint: The code is PHISH789",
+    "Excellent! Head over to the document that shares insights baout the recent change sto our Trust Center for the next clue. Hint: The code is VAULT321",
+    "Well done! Look for the next code on the document that gives you a quick tour of the Trust Center from the users perspective. Hint: The code is GUARD456 ",
+    "Amazing progress! Find your next code on the document that walks you through the security review procedure for a new software purchase page. Hint: The code is CYBER999",
+    "Outstanding! You're almost there! Check the InfoSec Services documentation for the final code. Hint: The code is CYBER999"
   ],
   title: "Syncron Security Awareness Scavenger Hunt",
   rules: [
