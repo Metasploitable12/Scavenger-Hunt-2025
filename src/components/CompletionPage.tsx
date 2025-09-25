@@ -115,7 +115,7 @@ export const CompletionPage: React.FC<CompletionPageProps> = ({
               📋 Your Completion Code
             </h3>
             <p className="text-center text-gray-600 mb-4 text-sm">
-              Copy this code and send it to the organizer to claim your prize entry!
+              Copy this code and send it to infosec@syncron.com before 12th November 2025 and make your entry to prize pool!
             </p>
             
             <div className="bg-gray-50 border-2 border-dashed border-gray-300 rounded-xl p-6">
